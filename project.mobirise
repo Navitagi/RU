@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 42,
+    "uniqCompNum": 44,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/nt-favicon-1-128x128.png",
     "noImageResize": "",
@@ -1531,8 +1531,8 @@
         },
         {
           "_params": {
-            "autoplay": true,
-            "animType": "carousel",
+            "autoplay": false,
+            "animType": "basic",
             "theme": "absent",
             "slides": [
               {
@@ -1543,7 +1543,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-gal-1-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-16-1600x1080.jpg",
@@ -1563,7 +1563,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-19-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-6-1600x1080.jpg",
@@ -1576,7 +1576,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-24-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-27-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/templ_2_gal-23-1600x1080.jpg",
@@ -1596,7 +1596,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-18-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-28-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/templ_2_gal-17-1600x1080.jpg",
@@ -1616,7 +1616,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-14-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-29-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/templ_2_gal-13-1600x1080.jpg",
@@ -1636,7 +1636,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-25-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-30-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/templ_2_gal-13-1600x900.jpg",
