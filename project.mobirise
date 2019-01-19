@@ -1532,8 +1532,8 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "book",
-            "theme": "puzzle",
+            "animType": "carousel",
+            "theme": "absent",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-gal-4-1600x1080.jpg",
