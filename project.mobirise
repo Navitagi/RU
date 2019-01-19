@@ -1563,7 +1563,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-19-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-6-1600x1080.jpg",
@@ -1576,11 +1576,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-27-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-31-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-23-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-23-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-27-1600x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-27-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
@@ -1616,14 +1616,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-29-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-32-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-13-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-13-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-29-1600x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-29-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-22-1600x1080.jpg",
