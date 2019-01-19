@@ -1532,7 +1532,7 @@
         {
           "_params": {
             "autoplay": false,
-            "animType": "basic",
+            "animType": "book",
             "theme": "absent",
             "slides": [
               {
