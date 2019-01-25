@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Temp NaviTagi RU",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 57,
+    "uniqCompNum": 56,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/nt-favicon-1-128x128.png",
     "noImageResize": "",
@@ -1546,11 +1546,11 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-16-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-8-new-1-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-15-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-15-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/templ_2_gal_8_new-1600x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-8-new-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
                 "active": false
@@ -1606,14 +1606,14 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-10-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/templ-2-gal-5-new-1-1600x1080.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/templ_2_gal-7-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-7-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/templ_2_gal_5_new-1600x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-5-new-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-32-1600x1080.jpg",
@@ -1623,7 +1623,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-29-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-22-1600x1080.jpg",
