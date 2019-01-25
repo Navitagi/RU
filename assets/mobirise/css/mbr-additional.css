@@ -1785,6 +1785,12 @@ body {
     padding: 0 1rem;
   }
 }
+#custom-html-1k {
+  /* Type valid CSS here */
+}
+#custom-html-1k .my-image {
+  width: 100%;
+}
 #custom-html-s {
   /* Type valid CSS here */
 }

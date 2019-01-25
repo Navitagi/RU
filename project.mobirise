@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Temp NaviTagi RU",
-    "currentPage": "index.html",
+    "currentPage": "eshop.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/nt-favicon-1-128x128.png",
     "noImageResize": "",
@@ -530,6 +530,20 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"simcase-CurrencyConverter-CustomContainer\"></div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_customTemplate": true,
