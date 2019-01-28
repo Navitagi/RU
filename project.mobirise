@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Temp NaviTagi RU",
-    "currentPage": "eshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 57,
+    "uniqCompNum": 56,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/nt-favicon-1-128x128.png",
     "noImageResize": "",
@@ -1547,7 +1547,7 @@
           "_params": {
             "autoplay": false,
             "animType": "book",
-            "theme": "absent",
+            "theme": "tick",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-gal-4-1600x1080.jpg",
@@ -1627,7 +1627,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-5-new-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-32-1600x1080.jpg",
@@ -1637,7 +1637,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/templ-2-gal-29-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/templ-2-gal-22-1600x1080.jpg",
