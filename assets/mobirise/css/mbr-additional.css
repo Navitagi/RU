@@ -1796,6 +1796,7 @@ body {
 }
 #custom-html-s .my-image {
   width: 100%;
+  align: right;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
