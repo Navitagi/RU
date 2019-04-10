@@ -551,7 +551,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div data-layout=\"MEDIUM_ICON_COUNTER\" data-fixed=\"TRUE\" data-fixed-position=\"TOP_RIGHT\" data-horizontal-indent=\"15\" data-vertical-indent=\"50\" class=\"ec-cart-widget\"></div>\n<div>\n{JS_CODE_0}{JS_CODE_1}</div>",
+          "_customHTML": "<div data-layout=\"MEDIUM_ICON_COUNTER\" data-fixed=\"TRUE\" data-fixed-position=\"TOP_RIGHT\" data-horizontal-indent=\"15\" data-vertical-indent=\"150\" class=\"ec-cart-widget\"></div>\n<div>\n{JS_CODE_0}{JS_CODE_1}</div>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
