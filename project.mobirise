@@ -551,8 +551,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div data-layout=\"MEDIUM_ICON_COUNTER\" class=\"ec-cart-widget\"></div>\n<div>{JS_CODE_0}{JS_CODE_1}</div>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 50%;\n}",
+          "_customHTML": "<div data-layout=\"MEDIUM_ICON_COUNTER\" class=\"ec-cart-widget\"></div>\n<div>\n\n<div data-fixed=\"VALUE\" data-fixed-position=\"TOP_RIGHT\" data-fixed-shape=\"VALUE\" data-horizontal-indent=\"VALUE\" data-vertical-indent=\"VALUE\" class=\"ec-cart-widget\"></div>\n<div>\n\n{JS_CODE_0}{JS_CODE_1}</div></div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
