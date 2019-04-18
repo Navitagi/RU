@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Temp NaviTagi RU",
-    "currentPage": "page8.html",
+    "name": "NaviTagi_RU",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6880,25 +6880,12 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mc-ru-promo-6-1000x1000-1000x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mc-ru-promo-6-1000x1000-1000x1000-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mc-ru-promo-3-1000x1000-1000x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mc-ru-promo-3-1000x1000-1000x1000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mc-nt-st-promo-1080x1080-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mc-nt-st-promo-1080x1080-1080x1080-800x800.png",
                 "alt": "NaviTagi",
                 "title": "Брелок NaviTagi",
                 "customStyle1": "display-7",
@@ -6927,6 +6914,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mc-ru-promo-4-1000x1000-1000x1000-800x800.jpg",
                 "alt": "NaviTagi",
                 "title": "NaviTagi",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/mc-ru-elder-1080x1080.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mc-ru-elder-1080x1080-800x800.png",
+                "alt": "NaviTagi",
+                "title": "Брелок NaviTagi",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
