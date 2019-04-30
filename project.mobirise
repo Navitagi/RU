@@ -1865,7 +1865,7 @@
                 "title": "<b>NaviTagi</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "помогут быстро найти Ваши контакты в критической ситуации!\n<br>\n<br><b>ДАЙТЕ ШАНС СВЯЗАТЬСЯ С ВАМИ!</b>",
+                "text": "<b>помогут быстро найти Ваши контакты\n<br>в критической ситуации!&nbsp;</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"index.html#features1-3s\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"eshop.html\" data-toolbar=\"-mbrBtnMove\">eSHOP</a>"
               }
             ]
