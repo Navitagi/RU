@@ -1766,7 +1766,7 @@ body {
   background: linear-gradient(45deg, #7fd9fc, #6576aa);
 }
 .cid-r88diPJq0A {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -1784,6 +1784,9 @@ body {
   .cid-r88diPJq0A .container-fluid {
     padding: 0 1rem;
   }
+}
+.cid-r88diPJq0A .mbr-section-subtitle B {
+  color: #f16b1b;
 }
 #custom-html-1k {
   /* Type valid CSS here */
