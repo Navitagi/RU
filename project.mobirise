@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NaviTagi_RU",
-    "currentPage": "wheretobuy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,20 +33,43 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      }
+    ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 143,
-    "versionPublish": "4.8.10",
+    "uniqCompNum": 145,
+    "versionPublish": "4.12.3",
     "favicon": "@PROJECT_PATH@/assets/images/nt-favicon-1-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-123340873-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-123340873-2');\r\n</script>\r\n",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "siteUrl": "https://navitagi.com/RU",
     "globalfooter": "",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "imageResize": true
   },
   "pages": {
     "page4.html": {
@@ -2475,6 +2498,39 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "token": "29691617554.727bfe1.7baf2ca2e58e48daab04d26ee2c055dc",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "3",
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Мы в Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-40"
         },
         {
           "_styles": {
